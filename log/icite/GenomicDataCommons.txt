@@ -1,0 +1,7 @@
+QUERY: Genomic Data Commons [TI]
+TOP 34007079 .. .....   2 1 2021     1  0   0 au[91](Allison P Heath) Author Correction: The NCI Genomic Data Commons.
+TOP 33619384 R. H....  90 3 2021    56  0  13 au[91](Allison P Heath) The NCI Genomic Data Commons.
+TOP 33619257 R. H.M.c  90 3 2021    61  1  41 au[10](Zhenyu Zhang) Uniform genomic data analysis in the NCI Genomic Data Commons.
+TOP 31344359 R. H...c  89 3 2019    96  1  48 au[37](Galen F Gao) Before and After: Comparison of Legacy and Harmonized TCGA Genomic Data Commons' Data.
+TOP 29092930 R. H....  39 2 2017    25  0   4 au[16](Shane Wilson) Developing Cancer Informatics Applications and Tools Using the NCI Genomic Data Commons API.
+TOP 28600341 .. H...c  94 3 2017   159  1  21 au[04](Mark A Jensen) The NCI Genomic Data Commons as an engine for precision medicine.

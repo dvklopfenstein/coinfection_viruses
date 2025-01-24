@@ -1,9 +1,9 @@
 MAKEFLAGS := --no-print-directory
 
 virus_search:
-	make virtus
-	make viraltrack
-	make centrifuge
+	@make virtus
+	@make viraltrack
+	@make centrifuge
 	@echo "------------------------------------------------------------"
 	@echo CITING PAPER OF THREE TECHNIQUES
 	# H.M.c 100 4 2021   383  2 179 au[23](Andrew C Yang) Dysregulation of brain and choroid plexus cell types in severe COVID-19.
@@ -19,19 +19,19 @@ virtus:
 	@echo "------------------------------------------------------------"
 	@echo "VIRTUS"
 	icite 33017003 -c | sort -k6
-	#icite 33017003 -l
+	@#icite 33017003 -l
 	icite 33017003
 
 viraltrack:
 	@echo "------------------------------------------------------------"
 	@echo VIRAL-TRACK: globally scans unmapped single-cell RNA sequencing scRNA-seq data for the presence of viral RNA
-	#icite 32479746 -l
+	@#icite 32479746 -l
 	icite 32479746
 
 centrifuge:
 	@echo "------------------------------------------------------------"
 	@echo CENTRIFUGE: RAPID AND SENSITIVE CLASSIFICATION OF METAGENOMIC SEQS
-	#icite 27852649 -l
+	@#icite 27852649 -l
 	icite 27852649
 
 # $ docker version
