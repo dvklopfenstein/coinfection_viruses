@@ -34,6 +34,13 @@ centrifuge:
 	@#icite 27852649 -l
 	icite 27852649
 
+.PHONY: data
+data:
+	find data -type f
+
+sent:
+	grep -nw --color Sent doc/email/*.md
+
 # $ docker version
 #   Client: Docker Engine - Community
 #    Version:           27.3.1
