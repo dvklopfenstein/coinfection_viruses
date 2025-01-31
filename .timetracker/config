@@ -1,0 +1,6 @@
+# TimeTracker project configuration file
+
+project = "coinfection_viruses"
+
+[csv]
+filename = "./timetracker_coinfection_viruses_$USER$.csv"

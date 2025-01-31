@@ -38,8 +38,11 @@ centrifuge:
 data:
 	find data -type f
 
+mail:
+	find doc/email -type f | sort
+
 sent:
-	grep -nw --color Sent doc/email/*.md
+	grep -nw --color -E "(From|Sent):" doc/email/*.md
 
 # $ docker version
 #   Client: Docker Engine - Community
