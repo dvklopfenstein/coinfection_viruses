@@ -3,4 +3,4 @@
 project = "coinfection_viruses"
 
 [csv]
-filename = "./timetracker_coinfection_viruses_$USER$.csv"
+filename = "./doc/timetracking/timetracker_coinfection_viruses_$USER$.csv"
