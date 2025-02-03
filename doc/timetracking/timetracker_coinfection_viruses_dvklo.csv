@@ -1,3 +1,5 @@
 start_day,xm,start_datetime,stop_day,zm,stop_datetime,duration,message, activity, tags
 Fri,AM,2025-01-31 10:38:48.100196,Fri,PM,2025-01-31 14:35:16.592896,6:12:28.492700,Prepared for meeting & had meeting,,
 Mon,AM,2025-02-03 11:55:50.402723,Mon,PM,2025-02-03 12:30:50.277862,0:25:59.875139,Sent email to ViralTrack authors,,
+Mon,PM,2025-02-03 14:22:57.253465,Mon,PM,2025-02-03 15:23:18.341619,1:00:21.088154,Install venv, pip, pmidcite with C Ang,,
+Mon,PM,2025-02-03 15:23:14.618369,Mon,PM,2025-02-03 15:32:51.289595,0:00:36.671226,clean up rep; Add ViralTrack first author, Dr. Pierre Bost contact info,,

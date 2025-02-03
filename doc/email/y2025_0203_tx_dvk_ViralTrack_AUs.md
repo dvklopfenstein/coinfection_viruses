@@ -1,10 +1,11 @@
+# Messages with ViralTrack authors
+* "benno@pasteur.fr" <benno@pasteur.fr>
+* "zhangzheng1975@aliyun.com" <zhangzheng1975@aliyun.com>
+* "ido.amit@weizmann.ac.il" <ido.amit@weizmann.ac.il>
+* https://institut-curie.org/person/pierre-bost#contact
+
 # Mon 2025_02_03 tx DVK
-
 ```
-"benno@pasteur.fr" <benno@pasteur.fr>
-"zhangzheng1975@aliyun.com" <zhangzheng1975@aliyun.com>
-"ido.amit@weizmann.ac.il" <ido.amit@weizmann.ac.il>
-
 From: Klopfenstein,Debra <dk497@drexel.edu>
 Sent: Monday, February 3, 2025 12:18 PM
 To: ido.amit@weizmann.ac.il <ido.amit@weizmann.ac.il>
